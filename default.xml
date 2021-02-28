@@ -20,7 +20,11 @@
            fetch="https://github.com/ResurrectionRemix"
            revision="Q"
 	       review="" />
-
+   
+  <remote  name="mtk"
+           fetch="https://github.com/CyberJalagam"
+           revision="Q-MTK"
+           review="" />
   <remote  name="bb"
            fetch="https://gitlab.com/rr-os"
            revision="Q"

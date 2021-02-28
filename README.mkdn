@@ -1,3 +1,4 @@
+# < Mediatek Friendly Non CAF >
 # Resurrection Remix OS Q 2020 #
 
 
@@ -12,7 +13,7 @@ Sync
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b Q
+repo init -u https://github.com/CyberJalagam/rr_mtk_manifest.git -b Q-MTK
 
 # Sync
 repo sync --force-sync --no-clone-bundle
