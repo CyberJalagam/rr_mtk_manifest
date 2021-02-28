@@ -13,7 +13,7 @@ Sync
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/CyberJalagam/rr_mtk_manifest.git -b Q-MTK
+repo init -u https://github.com/CyberJalagam/rr_mtk_manifest.git -b Q-MTK-PERSONAL
 
 # Sync
 repo sync --force-sync --no-clone-bundle
